@@ -1,0 +1,70 @@
+header{
+  width: 100%;
+  height: 200px;
+  background: #D00000;
+}
+
+nav{
+  width: 100%;
+  height: 100px;
+  background: #333333;
+}
+
+nav ul{
+  list-style: none;
+  display: inline-block; 
+  text-align: center;
+}
+
+li{
+  display: inline-block;
+  font-size: 35px;
+}
+
+a{
+  text-decoration: none;
+  margin: 110px;
+}
+
+.trai{
+  width: 30%;
+  height: 600px;
+  background: #0033FF;
+  float: left;
+}
+.trai1{
+  width: 100%;
+  height: 200px;
+  background: #FFA07A;
+}
+.trai2{
+  width: 100%;
+  height: 200px;
+  background: #FA8072;
+}
+.trai3{
+  width: 100%
+  height: 200px;
+  background: #E9967A;
+}
+
+.giua{
+  width: 40%;
+  height: 600px;
+  background: #99FF66;
+  float: left;
+}
+
+.phai{
+  width: 30%;
+  height: 600px;
+  background: #2F4F4F;
+  float: right;
+}
+
+footer{
+  width: 100%;
+  height: 150px;
+  background: #B22222;
+  clear: both;
+}
